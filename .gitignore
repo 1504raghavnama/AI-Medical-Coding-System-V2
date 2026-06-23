@@ -238,3 +238,7 @@ hcpcs_chromadb.zip
 *.npy
 *.pt
 *.model
+
+*.npy
+*.pt
+*.model
